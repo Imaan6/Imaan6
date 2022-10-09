@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imaan6
-- 👀 I’m interested in coding and working on fun projects.
-- 🌱 I’m currently learning front end developement.
+- 👀 I’m interested in working on fun projects.
+- 🌱 I’m currently learning <!---front end developement.--->
 - 💞️ I’m looking to collaborate on fun and interesting projects.
 - 📫 How to reach me: 'elmohalilimane@gmail.com'.
 
